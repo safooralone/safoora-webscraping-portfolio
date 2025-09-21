@@ -19,7 +19,17 @@ This repository contains multiple web scraping projects built with:Python, Selen
 -Exports results into XLSX,CSV
 
 5.**Infinite Scrolling Example**
--Selenium automation for dynamic pages and infinite scroll.
+-Selenium automation for dynamic pages and infinite scroll
+
+6.**E-commerce Web Scraping**
+-Scrapes product name,price,rating,description from e-commerce site
+-Uses Selenium and CSS selectors
+-Saves output into CSV,XLSX
+
+7.**CoinGecko Crypto Web Scraping**
+-Scrapes cryptocurrency data such as name,symbol,price,marketcap and 24hour change
+-Saves output into CSV/XLSX 
+
 -----
 CONTACT:safooralone55@gmail.com
 
