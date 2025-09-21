@@ -21,14 +21,6 @@ This repository contains multiple web scraping projects built with:Python, Selen
 5.**Infinite Scrolling Example**
 -Selenium automation for dynamic pages and infinite scroll.
 -----
-##Requirements:
---Python 3.8+
---Libraries: 'requests', 'beautifulsoup4', 'selenium', 'pandas', 'openpyxl'
-
-Install dependencies:
-'''bash
-pip install -r requirements.txt
-
 CONTACT:safooralone55@gmail.com
 
 
