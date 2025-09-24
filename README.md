@@ -30,7 +30,7 @@ This repository contains multiple web scraping projects built with:Python, Selen
 -Scrapes cryptocurrency data such as name,symbol,price,marketcap and 24hour change
 -Saves output into CSV/XLSX
 
-8.**8. Countries of the World Scraping**
+8.** Countries of the World Scraping**
 -Scrapes country details like name, region, population, and area (depending on source site) using Requests and BeautifulSoup
 -Exports scraped data into CSV/JSON
 
