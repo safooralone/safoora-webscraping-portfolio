@@ -34,6 +34,10 @@ This repository contains multiple web scraping projects built with:Python, Selen
 -Scrapes country details like name, region, population, and area (depending on source site) using Requests and BeautifulSoup
 -Exports scraped data into CSV/JSON
 
+9.**Hockey Teams Scraper**
+-Scrapes hockey team details such as team name, year, wins, and losses using Requests and BeautifulSoup
+-Exports scraped data into CSV/XLSX/JSON
+
 
 -----
 CONTACT:safooralone55@gmail.com
