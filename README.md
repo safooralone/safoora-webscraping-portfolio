@@ -30,13 +30,17 @@ This repository contains multiple web scraping projects built with:Python, Selen
 -Scrapes cryptocurrency data such as name,symbol,price,marketcap and 24hour change
 -Saves output into CSV/XLSX
 
-8.** Countries of the World Scraping**
+8.**Countries of the World Scraping**
 -Scrapes country details like name, region, population, and area (depending on source site) using Requests and BeautifulSoup
 -Exports scraped data into CSV/JSON
 
 9.**Hockey Teams Scraper**
 -Scrapes hockey team details such as team name, year, wins, and losses using Requests and BeautifulSoup
 -Exports scraped data into CSV/XLSX/JSON
+
+10.*#Oscar Winners Scraping**
+ – Scrapes film title, nominations, awards won, and Best Picture status – Saves output into CSV/XLSX/JSON
+
 
 
 -----
