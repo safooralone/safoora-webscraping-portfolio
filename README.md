@@ -26,7 +26,7 @@ This repository contains multiple web scraping projects built with:Python, Selen
 -Uses Selenium and CSS selectors
 -Saves output into CSV,XLSX
 
-7.**CoinGecko Crypto Web Scraping**
+7.CoinGecko Crypto Web Scraping
 -Scrapes cryptocurrency data such as name,symbol,price,marketcap and 24hour change
 -Saves output into CSV/XLSX
 
